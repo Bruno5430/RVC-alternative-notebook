@@ -1,4 +1,4 @@
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bruno5430/RVC-alternative-notebook/blob/main/RVC-alternativo-español.ipynb) Cuaderno alternativo para [RVC-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bruno5430/RVC-alternative-notebook/blob/main/RVC-alternativo-español.ipynb) Cuaderno alternativo para [RVC-WebUI](https://github.com/fumiama/Retrieval-based-Voice-Conversion-WebUI)
 
 Este cuaderno reemplaza la interfaz web del proyecto original para usar la interfaz de google colab.
 De esta forma se puede utilizar [sin obtener colab pro](https://research.google.com/colaboratory/faq.html#runtime-terminations).
