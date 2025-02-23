@@ -7,7 +7,7 @@ De esta forma se puede utilizar [sin obtener colab pro](https://research.google.
 - [X] Actualizar del cuaderno original para usar rmvpe y modelos preentrenados_v2
 - [X] Preprocesar clips de audio
 - [X] Entrenar modelos
-- [ ] Cargar/Guardar modelos
+- [X] Cargar/Guardar modelos
 - [ ] Hacer inferencia con los modelos
 - [ ] Integrar uvr5 para separar la voz de los clips de audio
 - [ ] Facilitar la recolección de clips de audio (yt-dlp?)
